@@ -1,0 +1,3 @@
+- src: https://github.com/valeriefuerte/sopo/tree/main/1/resorlv.conf
+  scm: git
+  version: master
