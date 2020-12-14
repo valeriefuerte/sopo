@@ -1,0 +1,8 @@
+---
+- name: Update apt packages
+  become: true
+  apt:
+    update_cache: yes # the equivalent of apt-get update
+    force_apt_get: yes # force usage of apt-get instead of aptitude
+    cache_valid_time: 86400 # One day
+

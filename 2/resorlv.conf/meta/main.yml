@@ -1,0 +1,9 @@
+galaxy_info:
+  author: valeriefuerte
+  description: Apt-update role
+  company: valeriefuerte
+  license: MIT
+  min_ansible_version: 2.4
+  galaxy_tags: []
+
+dependencies: []
