@@ -1,4 +1,4 @@
 ---
 - hosts: all
   roles:
-    - resorlv.conf
+    - 2/resorlv.conf

@@ -1,2 +1,2 @@
-[dev]
-dev ansible_host=192.168.56.102
+[new_server]
+new_server ansible_host=192.168.56.101 ansible_user=root
