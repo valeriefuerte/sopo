@@ -1,0 +1,10 @@
+stages:
+  - aptUpdate
+
+apt_update:
+  stage: aptUpdate
+  tags: 
+    - upd1
+  script:
+    - sudo apt-get update
+
